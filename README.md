@@ -6,5 +6,5 @@ To deploy Shopify OAuth flow with Lambda and ApiGateway.
 * `cdk deploy CdkshopifyouthS3Stack` : Create S3 Bucket to store data.
 * `cdk deploy CdkshopifyouthStack` : Lambda and ApiGateway.
 
-[description](https://figmentresearch.com/aws/cdkshopifyouth)
+[description](https://note.figmentresearch.com/aws/cdkshopifyouth)
 
