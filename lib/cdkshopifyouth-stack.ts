@@ -44,7 +44,7 @@ export class CdkshopifyouthStack extends cdk.Stack {
     
     const installation = new PythonFunction(this, 'installation', {
       entry: 'lambda',
-      index: 'installation.py',
+      index: 'confirminstallation.py',
       handler: 'lambda_handler',
       runtime: lambda.Runtime.PYTHON_3_8,
       environment: {

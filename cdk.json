@@ -12,10 +12,10 @@
     "@aws-cdk/aws-ecs-patterns:removeDefaultDesiredCount": true,
     "@aws-cdk/aws-rds:lowercaseDbIdentifier": true,
     "@aws-cdk/aws-efs:defaultEncryptionAtRest": true,
-    "shopify_appname": "stockequation1",
-    "shopify_app_secretname": "shopify/app/stockequation1",
+    "shopify_appname": "stockequation",
+    "shopify_app_secretname": "shopify/app/stockequation",
     "domain": "figmentresearch.com",
-    "subdomain": "stockequation1",
+    "subdomain": "stockequation",
     "s3bucketname_exportname": "shopifyapp-auth-s3bucketname",
     "tokyo_acmarn_exportname": "figmentresearch-wildcard-tokyo-acmarn"
   }
